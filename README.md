@@ -23,7 +23,7 @@ Let's take a look at a few charts from the notebook
 ![](extras/movies.png)
 ![](extras/ratings.png)
 
-Wordcloud from the titles
+Wordcloud from the titles <br>
 ![](extras/wordcloud.png)
 
 ### [[KAGGLE]](https://www.kaggle.com/datasets/georgescutelnicu/top-100-popular-movies-from-2003-to-2022-imdb/code)

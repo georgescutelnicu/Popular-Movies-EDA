@@ -1,7 +1,3 @@
-
-
-#### Popular-Movies-EDA
-
 ![](extras/popcorn.png)
 
 Exploratory Data Analysis on top 100 popular movies for each year from 2003 to 2022. <br>
@@ -23,17 +19,11 @@ The dataset contains:
 + Country of Origin
 
 
-#### Let's take a look at a few charts from the notebook
-<br>
-<img src="extras/movies.png">
+Let's take a look at a few charts from the notebook
+![](extras/movies.png)
+![](extras/ratings.png)
 
-<br>
-<img src="extras/star_director.png">
+Wordcloud from the titles
+![](extras/wordcloud.png)
 
-<br>
-
-##### Wordcloud from the titles: 
-<br>
-<img src="extras/wordcloud.png">
-<br>
-### [KAGGLE](https://www.kaggle.com/datasets/georgescutelnicu/top-100-popular-movies-from-2003-to-2022-imdb)
+### [[KAGGLE]](https://www.kaggle.com/datasets/georgescutelnicu/top-100-popular-movies-from-2003-to-2022-imdb/code)

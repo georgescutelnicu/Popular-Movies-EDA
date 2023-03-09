@@ -1,16 +1,16 @@
 ﻿Title,Rating,Year,Month,Certificate,Runtime,Directors,Stars,Genre,Filming_location,Budget,Income,Country_of_origin
-Avatar: The Way of Water,8,2022,December,PG-13,192,James Cameron,"Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang","Action, Adventure, Fantasy",New Zealand,"$350,000,000 ","$2,267,946,983 ",United States
-Guillermo del Toro's Pinocchio,7.8,2022,December,PG,117,"Guillermo del Toro, Mark Gustafson","Ewan McGregor, David Bradley, Gregory Mann, Burn Gorman","Animation, Drama, Family",USA,"$35,000,000 ","$108,967 ","United States, Mexico, France"
+Avatar: The Way of Water,7.8,2022,December,PG-13,192,James Cameron,"Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang","Action, Adventure, Fantasy",New Zealand,"$350,000,000 ","$2,267,946,983 ",United States
+Guillermo del Toro's Pinocchio,7.6,2022,December,PG,117,"Guillermo del Toro, Mark Gustafson","Ewan McGregor, David Bradley, Gregory Mann, Burn Gorman","Animation, Drama, Family",USA,"$35,000,000 ","$108,967 ","United States, Mexico, France"
 Bullet Train,7.3,2022,August,R,127,David Leitch,"Brad Pitt, Joey King, Aaron Taylor Johnson, Brian Tyree Henry","Action, Comedy, Thriller",Japan,"$85,900,000 ","$239,268,602 ","Japan, United States"
-The Banshees of Inisherin,8,2022,November,R,114,Martin McDonagh,"Colin Farrell, Brendan Gleeson, Kerry Condon, Pat Shortt","Comedy, Drama",Ireland,Unknown,"$19,720,823 ","Ireland, United Kingdom, United States"
+The Banshees of Inisherin,7.8,2022,November,R,114,Martin McDonagh,"Colin Farrell, Brendan Gleeson, Kerry Condon, Pat Shortt","Comedy, Drama",Ireland,Unknown,"$19,720,823 ","Ireland, United Kingdom, United States"
 M3gan,6.4,2022,December,PG-13,102,Gerard Johnstone,"Jenna Davis, Amie Donald, Allison Williams, Violet McGraw","Horror, Sci-Fi, Thriller",New Zealand,"$12,000,000 ","$171,253,910 ",United States
-Emancipation,5.9,2022,December,R,132,Antoine Fuqua,"Will Smith, Ben Foster, Charmaine Bingwa, Gilbert Owuor","Action, Thriller",Unknown,"$120,000,000 ",Unknown,United States
+Emancipation,6.1,2022,December,R,132,Antoine Fuqua,"Will Smith, Ben Foster, Charmaine Bingwa, Gilbert Owuor","Action, Thriller",Unknown,"$120,000,000 ",Unknown,United States
 Amsterdam,6.1,2022,October,R,134,David O Russell,"Christian Bale, Margot Robbie, John David Washington, Alessandro Nivola","Comedy, Drama, History",USA,"$80,000,000 ","$31,245,810 ","United States, Japan"
 Violent Night,6.9,2022,December,R,112,Tommy Wirkola,"David Harbour, John Leguizamo, Beverly D Angelo, Alex Hassell","Action, Comedy, Crime",Canada,"$20,000,000 ","$59,595,460 ","United States, Canada"
-The Whale,8.2,2022,December,R,117,Darren Aronofsky,"Brendan Fraser, Sadie Sink, Ty Simpkins, Hong Chau",Drama,USA,"$10,000,000 ","$31,104,312 ",United States
-The Fabelmans,7.8,2022,November,PG-13,151,Steven Spielberg,"Michelle Williams, Gabriel LaBelle, Paul Dano, Judd Hirsch",Drama,USA,"$40,000,000 ","$9,500,361 ",United States
+The Whale,7.8,2022,December,R,117,Darren Aronofsky,"Brendan Fraser, Sadie Sink, Ty Simpkins, Hong Chau",Drama,USA,"$10,000,000 ","$31,104,312 ",United States
+The Fabelmans,7.6,2022,November,PG-13,151,Steven Spielberg,"Michelle Williams, Gabriel LaBelle, Paul Dano, Judd Hirsch",Drama,USA,"$40,000,000 ","$9,500,361 ",United States
 The Menu,7.5,2022,November,R,107,Mark Mylod,"Ralph Fiennes, Anya Taylor Joy, Nicholas Hoult, Hong Chau","Comedy, Horror, Thriller",USA,"$35,000,000 ","$65,878,071 ",United States
-Babylon,7.7,2022,December,R,188,Damien Chazelle,"Brad Pitt, Margot Robbie, Jean Smart, Olivia Wilde","Comedy, Drama, History",USA,"$78,000,000 ","$61,851,455 ",United States
+Babylon,7.3,2022,December,R,188,Damien Chazelle,"Brad Pitt, Margot Robbie, Jean Smart, Olivia Wilde","Comedy, Drama, History",USA,"$78,000,000 ","$61,851,455 ",United States
 X,6.6,2022,March,R,105,Ti West,"Mia Goth, Jenna Ortega, Brittany Snow, Kid Cudi","Horror, Mystery, Thriller",New Zealand,"$1,000,000 ","$14,779,858 ","United States, Canada"
 Bones and All,7,2022,November,R,131,Luca Guadagnino,"Timoth e Chalamet, Taylor Russell, Mark Rylance, Kendle Coffey","Drama, Horror, Romance",USA,"$16,000,000 ","$14,134,907 ","Italy, United States"
 Black Adam,6.5,2022,October,PG-13,125,Jaume Collet Serra,"Dwayne Johnson, Aldis Hodge, Pierce Brosnan, Noah Centineo","Action, Adventure, Fantasy",USA,"$195,000,000 ","$391,273,355 ","United States, Canada, New Zealand, Hungary"
@@ -18,7 +18,7 @@ Spirited,6.6,2022,November,PG-13,127,Sean Anders,"Will Ferrell, Ryan Reynolds, O
 Lady Chatterley's Lover,6.7,2022,December,R,126,Laure de Clermont Tonnerre,"Emma Corrin, Jack O Connell, Matthew Duckett, Joely Richardson","Drama, Romance",UK,Unknown,Unknown,"United Kingdom, United States"
 A Christmas Story Christmas,6.8,2022,November,PG,98,Clay Kaytis,"Peter Billingsley, Erinn Hayes, River Drosche, Julianna Layne","Comedy, Family",USA,Unknown,Unknown,"United States, Mexico, Hungary, Canada"
 Troll,5.8,2022,December,TV-14,101,Roar Uthaug,"Ine Marie Wilmann, Kim Falck, Mads Sj g rd Pettersen, Gard B Eidsvold","Action, Adventure, Drama",Norway,Unknown,Unknown,Norway
-Black Panther: Wakanda Forever,7.2,2022,November,PG-13,161,Ryan Coogler,"Letitia Wright, Lupita Nyong o, Danai Gurira, Winston Duke","Action, Adventure, Drama",USA,"$250,000,000 ","$791,852,924 ",United States
+Black Panther: Wakanda Forever,6.8,2022,November,PG-13,161,Ryan Coogler,"Letitia Wright, Lupita Nyong o, Danai Gurira, Winston Duke","Action, Adventure, Drama",USA,"$250,000,000 ","$791,852,924 ",United States
 Glass Onion: A Knives Out Mystery,7.6,2022,December,PG-13,140,Rian Johnson,"Daniel Craig, Edward Norton, Kate Hudson, Dave Bautista","Comedy, Crime, Drama",Greece,"$40,000,000 ","$13,280,000 ",United States
 Triangle of Sadness,7.6,2022,September,R,147,Ruben stlund,"Thobias Thorwid, Harris Dickinson, Charlbi Dean, Jiannis Moustos","Comedy, Drama",Greece,"€ 10,000,000","$17,211,145 ","Sweden, France, United Kingdom, Germany, Turkey, Greece, United States, Denmark, Switzerland, Mexico"
 Everything Everywhere All at Once,8.1,2022,March,R,139,"Dan Kwan, Daniel Scheinert","Michelle Yeoh, Stephanie Hsu, Jamie Lee Curtis, Ke Huy Quan","Action, Adventure, Comedy",USA,"$25,000,000 ","$103,384,361 ",United States
